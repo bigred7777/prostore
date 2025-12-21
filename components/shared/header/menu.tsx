@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { Link } from "next-view-transitions";
 import ModeToggle from "./mode-toggle";
 import { SvgIcon } from "@progress/kendo-react-common";
 import { cartIcon, userIcon } from "@progress/kendo-svg-icons";
