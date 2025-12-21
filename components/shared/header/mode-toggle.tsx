@@ -8,8 +8,8 @@ import {
   DropdownMenuSeparator,
   DropdownMenuLabel,
   DropdownMenuCheckboxItem,
-} from "../../ui/dropdown-menu";
-import { Button } from "../../ui/button";
+} from "@/components/ui/dropdown-menu";
+import { Button } from "@/components/ui/button";
 import { SunMoon, SunIcon, MoonIcon } from "lucide-react";
 import { useState, useEffect } from "react";
 
@@ -31,7 +31,7 @@ const ModeToggle = () => {
         <DropdownMenuTrigger asChild>
           <Button
             variant="ghost"
-            className="focus-visible:ring-0 focus-visible:ring-offset-0"
+            className="focus-visible:ring-0 focus-visible:ring-offset-0 hover:cursor-pointer"
           >
             {theme === "system" ? (
               <SunMoon />
@@ -48,18 +48,21 @@ const ModeToggle = () => {
           <DropdownMenuCheckboxItem
             checked={theme === "system"}
             onClick={() => setTheme("system")}
+            className="hover:cursor-pointer"
           >
             System
           </DropdownMenuCheckboxItem>
           <DropdownMenuCheckboxItem
             checked={theme === "dark"}
             onClick={() => setTheme("dark")}
+            className="hover:cursor-pointer"
           >
             Dark
           </DropdownMenuCheckboxItem>
           <DropdownMenuCheckboxItem
             checked={theme === "light"}
             onClick={() => setTheme("light")}
+            className="hover:cursor-pointer"
           >
             Light
           </DropdownMenuCheckboxItem>

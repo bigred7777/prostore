@@ -160,3 +160,25 @@
   height: 100vh;
   width: 100vw;
 }
+
+::view-transition-old(root) {
+  animation: scale-down 300ms ease-in-out;
+}
+
+::view-transition-new(root) {
+  animation: scale-up 300ms ease-in-out;
+}
+
+@keyframes scale-down {
+  to {
+    transform: scale(0.95);
+    opacity: 0;
+  }
+}
+
+@keyframes scale-up {
+  from {
+    transform: scale(1.05);
+    opacity: 0;
+  }
+}
