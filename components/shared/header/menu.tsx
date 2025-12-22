@@ -1,19 +1,26 @@
 import { Link } from "next-view-transitions";
 import ModeToggle from "./mode-toggle";
-import { SvgIcon } from "@progress/kendo-react-common";
-import { cartIcon, userIcon } from "@progress/kendo-svg-icons";
+import UserButton from "./user-button";
+import { Button } from "@/components/ui/button";
+import { EllipsisVertical, Sheet, ShoppingCart } from "lucide-react";
+import {
+  SheetTrigger,
+  SheetContent,
+  SheetTitle,
+  SheetDescription,
+} from "@/components/ui/sheet";
 
 const Menu = () => {
   return (
     <div className="flex justify-end gap-3">
       <nav className="hidden md:flex w-full max-w-xs gap-1">
         <ModeToggle />
-        <Link href="/cart">
-          <SvgIcon icon={cartIcon} size="xxlarge" /> Cart
-        </Link>
-        <Link href="/sign-in">
-          <SvgIcon icon={userIcon} size="xxlarge" /> Sign In
-        </Link>
+        <Button asChild variant="ghost">
+          <Link href="/cart">
+            <ShoppingCart /> Cart
+          </Link>
+        </Button>
+        <UserButton />
       </nav>
     </div>
   );
