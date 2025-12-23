@@ -92,7 +92,7 @@ const CredentialsSignUpForm = () => {
 
         <div className="text-sm text-center text-muted-foreground">
           <Link
-            href="/sign-up"
+            href="/sign-in"
             target="_self"
             className="link text-blue-500 underline"
           >
