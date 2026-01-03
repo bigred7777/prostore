@@ -7,6 +7,7 @@ import { Inter } from "next/font/google";
 import { ViewTransitions } from "next-view-transitions";
 import { Toaster } from "sonner";
 
+
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {

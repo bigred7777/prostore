@@ -2,8 +2,6 @@
 
 import { Button } from "@/components/ui/button";
 import { useEffect } from "react";
-import Image from "next/image";
-import { APP_NAME } from "@/lib/constants";
 import { FileExclamationPointIcon } from "lucide-react";
 
 const Error = ({

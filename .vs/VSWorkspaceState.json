@@ -1,8 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\app"
+    "\\app",
+    "\\app\\(auth)",
+    "\\app\\(auth)\\sign-up",
+    "\\app\\(root)",
+    "\\app\\(root)\\product",
+    "\\app\\(root)\\product\\[slug]",
+    "\\app\\api",
+    "\\app\\api\\auth",
+    "\\app\\api\\auth\\[...next]"
   ],
-  "SelectedNode": "\\app\\layout.tsx",
+  "SelectedNode": "\\app\\(root)\\product\\[slug]\\page.tsx",
   "PreviewInSolutionExplorer": false
 }

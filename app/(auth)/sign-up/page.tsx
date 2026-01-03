@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   title: "Sign Up",
 };
 
-export const SignUpPage = async (props: {
+const SignUpPage = async (props: {
   searchParams: Promise<{
     callbackUrl: string;
   }>;

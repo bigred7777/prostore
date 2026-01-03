@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Training\\nextjs\\UdemyECommerce\\prostore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Training\\nextjs\\UdemyECommerce\\prostore\\app\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Training\\nextjs\\UdemyECommerce\\prostore\\app\\(root)\\product\\[slug]\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\(root)\\product\\[slug]\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Training\\nextjs\\UdemyECommerce\\prostore\\app\\css.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\css.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Training\\nextjs\\UdemyECommerce\\prostore\\auth.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:auth.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Training\\nextjs\\UdemyECommerce\\prostore\\app\\(auth)\\sign-up\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\(auth)\\sign-up\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Training\\nextjs\\UdemyECommerce\\prostore\\app\\(auth)\\sign-in\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\(auth)\\sign-in\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Training\\nextjs\\UdemyECommerce\\prostore\\lib\\actions\\cart.actions.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lib\\actions\\cart.actions.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Training\\nextjs\\UdemyECommerce\\prostore\\types\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:types\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 329,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +46,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "layout.tsx",
-              "DocumentMoniker": "C:\\Training\\nextjs\\UdemyECommerce\\prostore\\app\\layout.tsx",
-              "RelativeDocumentMoniker": "app\\layout.tsx",
-              "ToolTip": "C:\\Training\\nextjs\\UdemyECommerce\\prostore\\app\\layout.tsx",
-              "RelativeToolTip": "app\\layout.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "auth.ts",
+              "DocumentMoniker": "C:\\Training\\nextjs\\UdemyECommerce\\prostore\\auth.ts",
+              "RelativeDocumentMoniker": "auth.ts",
+              "ToolTip": "C:\\Training\\nextjs\\UdemyECommerce\\prostore\\auth.ts",
+              "RelativeToolTip": "auth.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-12-14T18:54:08.407Z",
+              "WhenOpened": "2025-12-27T00:44:26.456Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "css.d.ts",
-              "DocumentMoniker": "C:\\Training\\nextjs\\UdemyECommerce\\prostore\\app\\css.d.ts",
-              "RelativeDocumentMoniker": "app\\css.d.ts",
-              "ToolTip": "C:\\Training\\nextjs\\UdemyECommerce\\prostore\\app\\css.d.ts",
-              "RelativeToolTip": "app\\css.d.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Training\\nextjs\\UdemyECommerce\\prostore\\app\\(root)\\product\\[slug]\\page.tsx",
+              "RelativeDocumentMoniker": "app\\(root)\\product\\[slug]\\page.tsx",
+              "ToolTip": "C:\\Training\\nextjs\\UdemyECommerce\\prostore\\app\\(root)\\product\\[slug]\\page.tsx",
+              "RelativeToolTip": "app\\(root)\\product\\[slug]\\page.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-12-14T18:54:03.712Z",
+              "WhenOpened": "2025-12-27T00:44:03.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Training\\nextjs\\UdemyECommerce\\prostore\\app\\(auth)\\sign-up\\page.tsx",
+              "RelativeDocumentMoniker": "app\\(auth)\\sign-up\\page.tsx",
+              "ToolTip": "C:\\Training\\nextjs\\UdemyECommerce\\prostore\\app\\(auth)\\sign-up\\page.tsx",
+              "RelativeToolTip": "app\\(auth)\\sign-up\\page.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-27T00:43:35.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Training\\nextjs\\UdemyECommerce\\prostore\\app\\(auth)\\sign-in\\page.tsx",
+              "RelativeDocumentMoniker": "app\\(auth)\\sign-in\\page.tsx",
+              "ToolTip": "C:\\Training\\nextjs\\UdemyECommerce\\prostore\\app\\(auth)\\sign-in\\page.tsx",
+              "RelativeToolTip": "app\\(auth)\\sign-in\\page.tsx",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-27T00:42:32.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "cart.actions.ts",
+              "DocumentMoniker": "C:\\Training\\nextjs\\UdemyECommerce\\prostore\\lib\\actions\\cart.actions.ts",
+              "RelativeDocumentMoniker": "lib\\actions\\cart.actions.ts",
+              "ToolTip": "C:\\Training\\nextjs\\UdemyECommerce\\prostore\\lib\\actions\\cart.actions.ts",
+              "RelativeToolTip": "lib\\actions\\cart.actions.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-27T00:08:42.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.ts",
+              "DocumentMoniker": "C:\\Training\\nextjs\\UdemyECommerce\\prostore\\types\\index.ts",
+              "RelativeDocumentMoniker": "types\\index.ts",
+              "ToolTip": "C:\\Training\\nextjs\\UdemyECommerce\\prostore\\types\\index.ts",
+              "RelativeToolTip": "types\\index.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-12-26T23:55:39.665Z",
               "EditorCaption": ""
             }
           ]

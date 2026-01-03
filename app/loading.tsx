@@ -1,5 +1,5 @@
 import Image from "next/image";
-import loader from "../assets/styles/loader.gif";
+import loader from "@/assets/styles/loader.gif";
 
 const LoadingPage = () => {
   return (
